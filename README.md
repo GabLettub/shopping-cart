@@ -50,6 +50,9 @@ Ensure you have [Node.js](https://nodejs.org/) and npm installed on your machine
 | React Router DOM    | Declarative routing for React applications |
 | Tailwind CSS        | Utility-first CSS framework for styling    |
 
+## Project Structure
+
+```plaintext
 src
 ├── App.jsx           # Main component for the application
 ├── main.jsx          # Application entry point and Vite configuration
