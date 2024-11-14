@@ -66,6 +66,6 @@ src
 │   ├── CheckoutPage.jsx   # Checkout page
 │   └── HomePage.jsx       # Home page displaying products
 └── assets            # Folder to store static images or icons
-
+```
 
 <img alt="GFG" src="src/assets/shopping-cart.png">
